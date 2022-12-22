@@ -1,6 +1,6 @@
 import React from "react";
 import ReactDOM from "react-dom";
-import App from "./App.jsx";
+import App from "./Components/App.jsx";
 
 ReactDOM.render(<App/>, document.getElementById("root"));
 //5. Create a Note.jsx component to show a <div> element with a
